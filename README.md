@@ -1,8 +1,7 @@
 # Hi 👋, i'm @dev-henriquecouto
 
-**Software Development Student**
-
 **![Email](https://img.shields.io/badge/-hcouto76@gmail.com-red?style=flat&logo=gmail&logoColor=white)**   
+**Software Development Student**
 
 Languages & Technologies :
 - **Back-End:** `.NET (C#)` ~ `PHP` ~ `Node.js`  
