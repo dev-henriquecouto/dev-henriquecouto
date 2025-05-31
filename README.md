@@ -5,7 +5,7 @@
 
 Languages & Technologies :
 - **Back-End:** `.NET (C#)` ~ `PHP` ~ `Node.js`  
-- **Front-End:** `HTML/CSS` ~ `React` ~ `JavaScript`  
+- **Front-End:** `HTML/CSS` ~ `Bootstrap / Tailwind CSS` ~ `JavaScript`  
 - **Database:** `SQL`  
 <!---
 dev-henriquecouto/dev-henriquecouto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
